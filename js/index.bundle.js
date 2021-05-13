@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){console.log("dom ready")})),window.onload=function(){console.log("window ready")};
